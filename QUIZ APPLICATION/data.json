@@ -1,0 +1,76 @@
+[
+    {
+        "1": "India is a federal union comprising twenty-eight states and how many union territories?",
+        "2": "Which of the following is the capital of Arunachal Pradesh?",
+        "3": "What are the major languages spoken in Andhra Pradesh ?",
+        "4": "What is the state flower of Haryana ?",
+        "5": "In which of the following state, the main language is Khasi ?",
+        "6": "Which is the largest coffee-producing state of India  ?",
+        "7": "In what state is Elephant Falls located? ?",
+        "8": "Which state of India celebrates Hunter Holi, an 800-year tradition ?",
+        "9": "What is the staple drink of Goa?",
+        "10": "Who heads the RBI ?"
+    },
+    {
+        "1": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "2": [
+            "Itanagar",
+            "Dispur",
+            "Imphal",
+            "Panaji"
+        ],
+        "3": [
+            "Odia and Telugu",
+            "Telugu and Urdu",
+            "Telugu and Kannada",
+            "All of the above languages"
+        ],
+        "4": [
+            "Lotus",
+            "Rhododendron",
+            "Golden Shower",
+            "Not Declared"
+        ],
+        "5": [
+            "Mizoram",
+            "Nagaland",
+            "Meghalaya",
+            "Tripura"
+        ],
+        "6": [
+            "Kerala",
+            "Tamil Nadu",
+            "Karnataka",
+            "Arunachal Pradesh"
+        ],
+        "7": [
+            "Mizoram",
+            "Odisha",
+            "Manipur",
+            "Meghalaya"
+        ],
+        "8": [
+            "Punjab",
+            "Haryana",
+            "Delhi",
+            "Uttar Pradesh"
+        ],
+        "9": [
+            "Toddy",
+            "Feni",
+            "Thandai",
+            "Sattu Sharbat"
+        ],
+        "10": [
+            "Urjit Patel",
+            "Raghuram Rajan",
+            "YV Reddy",
+            "Shaktikanta Das"
+        ]
+    }
+]
